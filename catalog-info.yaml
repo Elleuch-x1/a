@@ -1,0 +1,6 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata: { name: poc-x-x-x }
+spec:
+  type: file
+  target: /etc/hostname
